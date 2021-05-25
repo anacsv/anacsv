@@ -1,5 +1,5 @@
 <h1 align = "center"> Olá 👋, sou Ana Paula Carneiro </h1>
-<h3 align = "center"> Um desenvolvedor Python em constante desenvolvimento </h3>
+<h3 align = "center"> Uma desenvolvedora Python em constante desenvolvimento </h3>
 
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=anacsv&label=Profile%20views&color=0e75b6&style=flat" alt = "anacsv" /> </p>
 
