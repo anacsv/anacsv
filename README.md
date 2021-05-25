@@ -1,5 +1,5 @@
 <h1 align="center">Ol&aacute; 👋 Eu sou a Ana Paula Carneiro</h1>
-<h3 align="center">Uma desenvolvedora Python em constante desenvolvimento.</h3>
+<h3 align="left">Uma desenvolvedora Python em constante desenvolvimento.</h3>
 
 
 <h3 align=" left ">Conecte-se a mim:</h3>
