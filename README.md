@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Ol&aacute; 👋 Eu sou a Ana Paula Carneiro</h1>
+<h3 align="center">Uma desenvolvedora Python em constante desenvolvimento.</h3>
 
-<!--
-**anacsv/anacsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align=" left ">Trabalho voluntário:</h3>
+<p align=" left "><a href="https://www.devscansados.com.br/" target="blank"> <img src="https://cdn0.iconfinder.com/data/icons/podcast-4/100/podcast-happy-4-podcast-podcaster-vlogger-streamer-microphone-radio-show-happy-emoji-female-256.png" alt="Estagiaria" width="40" height="40" align="center" />
+<a href="https://www.linkedin.com/company/pyladies-curitiba" target="blank"> <img src="https://d1fdloi71mui9q.cloudfront.net/2roXcSlOT1Cg7f78GKHb_aOEZUnGMkMEOLv7D" alt="Estagiaria" width="40" height="40" align="center"/>  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align=" left ">Conecte-se a mim:</h3>
+<p align="left"><a href="https://twitter.com/nannoka" target="blank"><img src="https://img.shields.io/twitter/follow/nannoka?logo=twitter&amp;style=for-the-badge" alt="nannoka"/></a></p>
+<p align=" left "><a href="https://www.linkedin.com/in/anapaulacarneiro/" target="blank"> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-256.png" alt="anapaulacarneiro" width="40" height="40" align="center"/><a href="https://anapaulacsv.medium.com/" target=" blank "> <img src="https://cdn3.iconfinder.com/data/icons/social-media-2285/1151/Medium_logo_-_black-256.png" alt="anapaulacsv " width=" 40 " height=" 40 " align=" center " /> </a></p>
+<h3 align=" left ">Linguagens e ferramentas:</h3>
+<p align="left"><a href="https://www.djangoproject.com/" target="_blank" rel="noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg " alt=" django " width=" 40 " height=" 40 " /> </a> <a href=" https://www.figma.com/ " target="_blank" rel="noopener"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noopener"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt=" frasco " height=" 40 " /> </a> <a href="https://git-scm.com/" target="_blank" rel="noopener"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt=" git " width=" 40 " height=" 40 " /> </a> <a href=" https://www.linux.org/ " target=" _ blank "> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt=" linux " width=" 40 " height="40" /> </a> <a href="https://www.postgresql.org" target="_blank" rel="noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg " alt=" postgresql " width=" 40 " height=" 40 " /> </a> <a href=" https: // postman.com " target=" _ blank "> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt=" postman " width=" 40 " height=" 40 " /> </a> <a href="https://www.python.org" target="_blank" rel="noopener"> <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-256.png" alt=" python " width=" 40 " height=" 40 " /> </a> <a href=" https://www.selenium.dev " target=" _ blank "> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="sel&ecirc;nio" width="40" height="40" /></a></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=anacsv&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="anacsv" /></p>
