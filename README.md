@@ -2,7 +2,7 @@
 <h3 align="left">Uma desenvolvedora em constante desenvolvimento.</h3>
 
 <h5 align="left">Sou apaixonada por tecnologia, por comunidades e por ajudar pessoas, gosto de inspirar devs a se comunicarem mais e perceberam o quanto isso muda as nossas vidas, muda nossa percepção social, sobre nós mesmos e desenvolve a empatia, algo bem necessário nos dias atuais. 
-Sou desenvolvedora back-end, tenho experiência com Python, Django e PostgreSQL aplicados a estrutura de microserviços. Gosto muito de aprender e de estudar novas tecnologias, atualmente estou estudando mais sobre Inteligência Artificial, linguagem R e Python voltado para esta finalidade.</h5>
+Sou desenvolvedora back-end, tenho experiência com Python, Django e PostgreSQL aplicados a estrutura de microserviços. Gosto muito de aprender e de estudar novas tecnologias, atualmente estou estudando mais sobre Inteligência Artificial e Python voltado para esta finalidade.</h5>
 
 <h5 align="left">Sempre falo que: "É ensinando que se aprende" então estou sempre em contato com comunidades tech, tenho projetos de mentoria e também para compartilhar meus conhecimentos.</h5>
 
