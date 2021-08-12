@@ -1,4 +1,4 @@
-<h1 align="center">Ol&aacute; 👋 Eu sou a Ana Paula Carneiro</h1>
+<h1 align="center">Ol&aacute; 👋 sou a Ana Paula Carneiro</h1>
 <h3 align="left">Uma desenvolvedora em constante desenvolvimento.</h3>
 
 <h5 align="left">Sou apaixonada por tecnologia, por comunidades e por ajudar pessoas, gosto de inspirar devs a se comunicarem mais e perceberam o quanto isso muda as nossas vidas, muda nossa percepção social, sobre nós mesmos e desenvolve a empatia, algo bem necessário nos dias atuais. 
