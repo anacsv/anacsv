@@ -1,10 +1,15 @@
 <h1 align="center">Ol&aacute; 👋 sou a Ana Paula Carneiro</h1>
 <h3 align="left">Uma desenvolvedora em constante desenvolvimento.</h3>
 
-<h5 align="left">Sou apaixonada por tecnologia, por comunidades e por ajudar pessoas, gosto de inspirar devs a se comunicarem mais e perceberam o quanto isso muda as nossas vidas, muda nossa percepção social, sobre nós mesmos e desenvolve a empatia, algo bem necessário nos dias atuais. 
-Sou desenvolvedora back-end, tenho experiência com Python, Django e PostgreSQL aplicados a estrutura de microserviços. Gosto muito de aprender e de estudar novas tecnologias, atualmente estou estudando sobre Inteligência Artificial e Python voltado para esta finalidade.</h5>
+<h5 align="left">Nascida e criada em Curitiba, Paraná - Brasil, morando em Porto, Porto - Portugal.
+Sou fã de tecnologia, gosto muito de estar em contato com pessoas e de ajudar sempre que posso.
+Atualmente sou desenvolvedora back-end, tenho Experiência com Python, Django e PostgreSQL aplicados
+a estrutura de microserviços, testes com pytest, CI/CD, aplicações da AWS(SQS,SNS,ECR,Lambda,CloudWatch, entre outros), Docker, Kubernetes, Sentry, Logentries, etc.</h5>
 
-<h5 align="left">Sempre falo que: "É ensinando que se aprende" então estou sempre em contato com comunidades tech, tenho projetos de mentoria e também para compartilhar meus conhecimentos.</h5>
+<h5 align="left">Sempre falo que: "É ensinando que se aprende" então estou sempre em contato com comunidades tech,
+dou mentoria para que está iniciando e também gosto de compartilhar conhecimentos e aprender mais
+com a comunidade. Acredito ser importante incentivar devs a se comunicarem mais e a perceberem o
+quanto isso muda as nossas vidas, nossa percepção social e a visão sobre nós mesmos.</h5>
 
 <h3 align=" left ">Conecte-se a mim:</h3>
   
